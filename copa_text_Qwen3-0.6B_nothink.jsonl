@@ -1,0 +1,1000 @@
+{"idx": 0, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: The sun was rising.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 0, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **B: The sun was rising.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 1, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: The woman knew her friend was going through a hard time.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 1, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: The woman knew her friend was going through a hard time.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 2, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: They wanted to catch up with each other.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 2, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: They wanted to catch up with each other.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 3, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: She planned to run along the beach.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 3, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option A: She planned to run along the beach.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 4, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: It was a surprise party.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 4, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: It was a surprise party.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 5, "question": "cause", "swap": false, "gold": 1, "raw": "Correct option: **B: No one voted for him.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 5, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: No one voted for him.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 6, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: I bleached the shirt.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 6, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: I bleached the shirt.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 7, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: He used a coupon.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 7, "question": "cause", "swap": true, "gold": 1, "raw": "Correct option: **A: He used a coupon.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 8, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: The patient filed a malpractice lawsuit against the physician.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 8, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: The patient filed a malpractice lawsuit against the physician.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 9, "question": "cause", "swap": false, "gold": 1, "raw": "Option A: The sales associate undercharged the customer.", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 9, "question": "cause", "swap": true, "gold": 1, "raw": "Option B: The sales associate undercharged the customer.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 10, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: The faucet was leaky.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 10, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: The faucet was leaky.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 11, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The woman's daughter moved in to take care of her.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 11, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: The woman's daughter moved in to take care of her.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 12, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: People skated on the pond.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 12, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: People skated on the pond.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 13, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: She stole money from a church.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 13, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: She was sent back to jail.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 14, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: My friend awoke.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 14, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: My friend awoke.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 15, "question": "cause", "swap": false, "gold": 0, "raw": "Option B: Her friend gave her a pat on the back.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 15, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: Her friend stuck an ice cube down her back.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 16, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: I put it in the dryer.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 16, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: I put it in the dryer.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 17, "question": "effect", "swap": false, "gold": 1, "raw": "Option A: Snowflakes began to fall from the sky.", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 17, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **Option B: Snowflakes began to fall from the sky.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 18, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: The caller said goodbye to me.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 18, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: The caller said goodbye to me.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 19, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: The ring went down the drain.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 19, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: The woman polished the ring.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 20, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: She won a spelling bee.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 20, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: She won a spelling bee.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 21, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: He asked her if she liked sushi.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 21, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: He opened the door for her.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 22, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: A canal was constructed.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 22, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: A canal was constructed.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 23, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: She worried she would catch the flu.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 23, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: She was certain she had the flu.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 24, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: She was attracted to him.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 24, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option A: She was repulsed by him.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 25, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: She opened her parachute.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 25, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: She opened her parachute.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 26, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: Her mother fixed her hair into pigtails.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 26, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: Her mother put her down for a nap.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 27, "question": "cause", "swap": false, "gold": 1, "raw": "Correct option: **Option A: He avoided exposure to the disease.**", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 27, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option B: He avoided exposure to the disease.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 28, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: The juice turned to wine.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 28, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: The juice turned to wine.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 29, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The friends were splitting hairs.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 29, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: The friends were splitting hairs.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 30, "question": "cause", "swap": false, "gold": 1, "raw": "Option A: She was nervous.", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 30, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: She was in a good mood.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 31, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: He grew a beard.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 31, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: He wore a hat.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 32, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option A: The fugitive fell to the ground.**", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 32, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: The fugitive dropped his gun.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 33, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The nurse gave him an IV.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 33, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: The nurse gave him an IV.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 34, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: She completed the puzzle.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 34, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: She completed the puzzle.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 35, "question": "cause", "swap": false, "gold": 0, "raw": "Option B: He wanted to iron his pants before work.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 35, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: He wanted to shut off the alarm clock.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 36, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: I put them into alphabetical order.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 36, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: I made photocopies of them.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 37, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: She bought a yacht.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 37, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: She bought a yacht.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 38, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The thread went through the fabric.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 38, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: The thread went through the fabric.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 39, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: She decided to sue her employer.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 39, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: She decided to sue her employer.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 40, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: His landlord unlocked the door.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 40, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: His landlord unlocked the door.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 41, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: I sang along to it.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 41, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: I sang along to it.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 42, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: The applicant failed a background check.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 42, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: The applicant failed a background check.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 43, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: He went blind.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 43, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: He went blind.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 44, "question": "cause", "swap": false, "gold": 1, "raw": "Correct option: **B: It injured its wing.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 44, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: It injured its wing.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 45, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: She saw a shooting star.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 45, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: She saw a shooting star.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 46, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: She wrapped herself in a towel.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 46, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **B: She wrapped herself in a towel.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 47, "question": "effect", "swap": false, "gold": 1, "raw": "Option A: The patient bled.", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 47, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: The patient bled.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 48, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **B: It was stale.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 48, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: It was stale.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 49, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: They had a pillow fight.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 49, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: They had a pillow fight.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 50, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: I was thirsty.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 50, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: I was thirsty.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 51, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: They built a fence around their property.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 51, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: They built a fence around their property.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 52, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **B: Her muscles became fatigued.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 52, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **Option B: The gym closed.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 53, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **B: The ingredients blended together.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 53, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: The ingredients blended together.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 54, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: The transaction became official.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 54, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: The transaction became official.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 55, "question": "effect", "swap": false, "gold": 1, "raw": "Option A: The gun recoiled.", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 55, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: The gun went off.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 56, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: She donated blood.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 56, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: She donated blood.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 57, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: She adopted a cat.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 57, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: She adopted a cat.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 58, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **A: The wood became smooth.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 58, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **B: The wood became smooth.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 59, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The band reappeared on the stage.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 59, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: The band reappeared on the stage.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 60, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: He was fined for littering.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 60, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: He was fined for littering.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 61, "question": "cause", "swap": false, "gold": 0, "raw": "Correct option: **A**", "pred": null, "first_listed": null, "correct": false}
+{"idx": 61, "question": "cause", "swap": true, "gold": 0, "raw": "Correct option: **B: I forgot to eat breakfast.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 62, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: Their boat was rescued.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 62, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: Their boat drifted to shore.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 63, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: He entered the house.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 63, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option A: He loosened his tie.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 64, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option A: The dog chewed on a bone.**", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 64, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option B: The dog chewed on a bone.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 65, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: The dog scratched its fur.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 65, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option A: The dog scratched its fur.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 66, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: My friend explained the rules to me.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 66, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: My friend explained the rules to me.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 67, "question": "cause", "swap": false, "gold": 0, "raw": "Correct option: **A**.", "pred": null, "first_listed": null, "correct": false}
+{"idx": 67, "question": "cause", "swap": true, "gold": 0, "raw": "Correct option: **B: He wanted to relax.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 68, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: The shop was undergoing renovation.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 68, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: The shop was undergoing renovation.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 69, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The station was coming in with static.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 69, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: The station was coming in with static.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 70, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: The bomb exploded.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 70, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: The bomb exploded.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 71, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The suspect resisted arrest.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 71, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: The suspect resisted arrest.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 72, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: They withheld the victim's name from the public.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 72, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: The victim struggled to recall details about the crime.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 73, "question": "cause", "swap": false, "gold": 1, "raw": "Option A: He bought them on sale.", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 73, "question": "cause", "swap": true, "gold": 1, "raw": "Option B: He bought them on sale.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 74, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **B: The clock showed the wrong time.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 74, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: The clock showed the wrong time.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 75, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option A: He got out of the car.**", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 75, "question": "cause", "swap": true, "gold": 1, "raw": "Correct option: **B: He got out of the car.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 76, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: He was addicted to nicotine.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 76, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: He was addicted to nicotine.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 77, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: His dog ran over to eat the food.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 77, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: His dog ran over to eat the food.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 78, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: The girl told a secret to her friend.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 78, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: The girl spread a rumor about her friend.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 79, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: The fugitive remained at large.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 79, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: The fugitive remained at large.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 80, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: The liquid in the bottle poured out.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 80, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: The liquid in the bottle poured out.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 81, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: She migrated from another country.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 81, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: She migrated from another country.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 82, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: He ate a pepper.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 82, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: He ate a pepper.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 83, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: I turned to the next page.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 83, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: I turned to the next page.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 84, "question": "cause", "swap": false, "gold": 1, "raw": "Option A: There were many empty tables.", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 84, "question": "cause", "swap": true, "gold": 1, "raw": "Option B: There were many empty tables.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 85, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: I called 911.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 85, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: I called 911.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 86, "question": "cause", "swap": false, "gold": 1, "raw": "Correct option: **B: I ate birthday cake.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 86, "question": "cause", "swap": true, "gold": 1, "raw": "Correct option: Option B: I jogged on the treadmill.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 87, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: I finished eating.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 87, "question": "cause", "swap": true, "gold": 0, "raw": "Correct option: B: I finished eating.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 88, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: He finished reading it.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 88, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: He finished reading it.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 89, "question": "cause", "swap": false, "gold": 1, "raw": "Option A: His grandfather was deaf.", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 89, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: His grandfather was blind.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 90, "question": "effect", "swap": false, "gold": 1, "raw": "Correct option: B: I shook my foot.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 90, "question": "effect", "swap": true, "gold": 1, "raw": "Correct option: B: I put my shoes on.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 91, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: The photographer quickly snapped the child's photo.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 91, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: The photographer quickly snapped the child's photo.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 92, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: The blinds were open.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 92, "question": "cause", "swap": true, "gold": 0, "raw": "Option A: The blinds were open.", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 93, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: The tile was wet.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 93, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: The tile was wet.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 94, "question": "effect", "swap": false, "gold": 1, "raw": "Option A: His stubble grew.", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 94, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **A: His stubble disappeared.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 95, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: She received a salary bonus.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 95, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: She received a salary bonus.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 96, "question": "cause", "swap": false, "gold": 1, "raw": "Option A: She took sleeping pills.", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 96, "question": "cause", "swap": true, "gold": 1, "raw": "Option B: She took sleeping pills.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 97, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option A: She remembered to take her medication.**", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 97, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: She remembered to take her medication.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 98, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: It was 3 AM.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 98, "question": "cause", "swap": true, "gold": 1, "raw": "Correct option: **B: It was crowded.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 99, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: He was speeding.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 99, "question": "cause", "swap": true, "gold": 1, "raw": "Correct option: **A: He was speeding.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 100, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: She gave her students a pop quiz.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 100, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: She identified the students that were absent.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 101, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: It swung back and forth.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 101, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: It swung back and forth.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 102, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: The blocks scattered all over the rug.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 102, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: The blocks scattered all over the rug.  \nOption B: The stack towered over the boy's head.", "pred": null, "first_listed": null, "correct": false}
+{"idx": 103, "question": "cause", "swap": false, "gold": 1, "raw": "Option A: He relied on his parents.", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 103, "question": "cause", "swap": true, "gold": 1, "raw": "Correct option: **B: He relied on his parents.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 104, "question": "cause", "swap": false, "gold": 0, "raw": "Option B: I anticipated the interviewer's questions.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 104, "question": "cause", "swap": true, "gold": 0, "raw": "Option A: I anticipated the interviewer's questions.", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 105, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: Users reported dangerous side effects.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 105, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: Users reported dangerous side effects.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 106, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: He realized he was early.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 106, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: He realized he was early.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 107, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: I spilled juice on the floor.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 107, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: I spilled juice on the floor.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 108, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: The patron was drunk.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 108, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: The patron was drunk.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 109, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: I asked the professor questions.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 109, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: I paid attention to the professor.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 110, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: Schools banned it from its libraries.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 110, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: Schools banned it from its libraries.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 111, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: The woman took pity on him.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 111, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: The woman took pity on him.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 112, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: I took the package to the post office.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 112, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: The package triggered my curiosity.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 113, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: The wave carried her to the shore.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 113, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **B: The wave carried her to the shore.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 114, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: The speaker won the debate.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 114, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: The speaker won the debate.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 115, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: I found a better-paying job.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 115, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: I found a better-paying job.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 116, "question": "cause", "swap": false, "gold": 0, "raw": "Option B: I wanted to be honest.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 116, "question": "cause", "swap": true, "gold": 0, "raw": "Option A: I wanted to be honest.", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 117, "question": "cause", "swap": false, "gold": 0, "raw": "Correct option: B: The teacher graded his homework.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 117, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: He talked back to the teacher.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 118, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: His palms were cold and sweaty.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 118, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option A: His palms were cold and sweaty.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 119, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option A: The game ended in a tie.**", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 119, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: The player scored.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 120, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: Her bike sped up.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 120, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: Her bike sped up.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 121, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: I smiled at him.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 121, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: I confronted him.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 122, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: The train travelled through a tunnel.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 122, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: The train travelled through a tunnel.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 123, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: He felt in awe.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 123, "question": "effect", "swap": true, "gold": 0, "raw": "B: He felt in awe.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 124, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: It detected a predator.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 124, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: It detected a predator.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 125, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: She outgrew the clothes.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 125, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: She outgrew the clothes.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 126, "question": "effect", "swap": false, "gold": 1, "raw": "Option A: The suspect was acquitted.", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 126, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: The suspect was convicted.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 127, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option A: Their youngest child started attending preschool.**", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 127, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option B: Their youngest child started attending preschool.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 128, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: The driver made a wrong turn.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 128, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: The driver made a wrong turn.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 129, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: Consumers recognized the product.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 129, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: Consumers recognized the product.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 130, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: The soap foamed.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 130, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: The soap foamed.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 131, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: The horse trotted into the barn.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 131, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: The lasso grabbed onto the horse.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 132, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: The woman was relieved.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 132, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option A: The woman apologized.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 133, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: She looked the term up in the dictionary.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 133, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **B: She looked the term up in the dictionary.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 134, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: His family cut off contact with him.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 134, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: His family offered him financial support.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 135, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: I replaced the batteries.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 135, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: I took it apart.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 136, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: The dog emitted a foul smell.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 136, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: The dog emitted a foul smell.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 137, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: My itch went away.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 137, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: My itch went away.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 138, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: She sent me a gift.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 138, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: She sent me a gift.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 139, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The security alarm went off.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 139, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: The security alarm went off.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 140, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: The woman thanked me.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 140, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: The woman thanked me.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 141, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: The girl applied her makeup.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 141, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: The girl turned on the fan.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 142, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The man displayed a weapon.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 142, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: The man displayed a weapon.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 143, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **B: The car turned.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 143, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: The car turned.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 144, "question": "cause", "swap": false, "gold": 0, "raw": "Option B: They stormed the city.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 144, "question": "cause", "swap": true, "gold": 0, "raw": "Option A: They stormed the city.", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 145, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: The ship's debris sunk in the sea.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 145, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: The ship crashed into the pier.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 146, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: It was wrinkled.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 146, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: It was wrinkled.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 147, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: She lost her balance.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 147, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: She lost her balance.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 148, "question": "cause", "swap": false, "gold": 1, "raw": "Correct option: **B: He noticed a stranded vehicle.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 148, "question": "cause", "swap": true, "gold": 1, "raw": "Correct option: **B: He went through an intersection.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 149, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: The patient's symptoms cleared up.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 149, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **B: The patient's symptoms cleared up.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 150, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: She was adopted.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 150, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: She didn't get vaccinated.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 151, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: We sat down.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 151, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **Option B: The film began.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 152, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: They encouraged her to become an artist.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 152, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: They encouraged her to become an artist.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 153, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The lid came off.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 153, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: The lid came off.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 154, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: She graduated from college.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 154, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: She graduated from college.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 155, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option A: I walked upstairs.**", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 155, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option B: I walked upstairs.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 156, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: I played in the puddle.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 156, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option A: I played in the puddle.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 157, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: The fire alarm blared.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 157, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: The fire alarm blared.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 158, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: She excavated ancient artifacts.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 158, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: She excavated ancient artifacts.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 159, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: He entertained the audience.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 159, "question": "cause", "swap": true, "gold": 0, "raw": "Option A: He entertained the audience.", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 160, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The player scored a point.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 160, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: The player scored a point.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 161, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The ball hit the ceiling.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 161, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: The ball hit the ceiling.  \nOption B: The ball rolled across the ground.", "pred": null, "first_listed": null, "correct": false}
+{"idx": 162, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: I brushed my teeth.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 162, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: I wiped my mouth.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 163, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: He asked for directions.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 163, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: He asked for directions.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 164, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The mother grimaced.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 164, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: The baby burped.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 165, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: My balance wavered.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 165, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: My balance wavered.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 166, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: The car accelerated.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 166, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: The car accelerated.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 167, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: I parked illegally.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 167, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: I parked illegally.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 168, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: She destroyed the evidence.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 168, "question": "cause", "swap": true, "gold": 1, "raw": "Option B: Her accomplice was apprehended.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 169, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: I wiped the desk with a cloth.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 169, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: I wiped the desk with a cloth.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 170, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: The motorcycle shot forward.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 170, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: The motorcycle shot forward.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 171, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The student spit out the gum.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 171, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **Option B: The gum stuck to the student's shoe.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 172, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: His guests were gracious.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 172, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: His guests were gracious.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 173, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: A bird built a nest in the tree.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 173, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option A: A bird built a nest in the tree.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 174, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The man scooted the chair closer to his desk.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 174, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: The man scooted the chair closer to his desk.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 175, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: It was bedtime for the children.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 175, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: It was bedtime for the children.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 176, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: He went underwater.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 176, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: He went underwater.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 177, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: I apologized to him.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 177, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: I apologized to him.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 178, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: It was caught in a hurricane.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 178, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: It was caught in a hurricane.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 179, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: He avoided making eye contact with her.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 179, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: He avoided making eye contact with her.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 180, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: She forgot her ID.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 180, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: She forgot her ID.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 181, "question": "cause", "swap": false, "gold": 1, "raw": "Correct option: **B: A comet collided with the moon.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 181, "question": "cause", "swap": true, "gold": 1, "raw": "Correct option: **A**. A comet collided with the moon.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 182, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: The seeds sprouted.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 182, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: The seeds sprouted.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 183, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: He wanted to maintain his privacy.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 183, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: He wanted to maintain his privacy.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 184, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: She hid the scar with makeup.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 184, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: She hid the scar with makeup.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 185, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: He discovered that the patient's arm was broken.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 185, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: He discovered that the patient's arm was broken.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 186, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: He was building a sand castle.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 186, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: He was building a sand castle.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 187, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: She installed new software on the computer.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 187, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: She installed new software on the computer.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 188, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: Her parents came to watch the recital.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 188, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: Her parents showed her how to dance.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 189, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: The mother picked up the baby.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 189, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: The mother picked up the baby.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 190, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: She began going to church.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 190, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: She began going to church.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 191, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: I threw away unnecessary contents.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 191, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: I threw away unnecessary contents.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 192, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: He received a perfect score.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 192, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: He received a perfect score.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 193, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: He went away to camp.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 193, "question": "cause", "swap": true, "gold": 0, "raw": "Correct option: B: He went away to camp.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 194, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: The girl launched it.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 194, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **B: The girl launched it.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 195, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: His mother told him to speak up.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 195, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: His mother told him to speak up.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 196, "question": "cause", "swap": false, "gold": 0, "raw": "Option B: I was held up at airport security.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 196, "question": "cause", "swap": true, "gold": 0, "raw": "Option A: I was held up at airport security.", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 197, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: I burnt my dinner.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 197, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: I burnt my dinner.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 198, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: I glued it back together.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 198, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: I glued it back together.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 199, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: She pounded on the door.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 199, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option A: She pounded on the door.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 200, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **B: The woman made him blush.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 200, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: The woman kissed him.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 201, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: I sensed someone approaching me from behind.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 201, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: I sensed someone approaching me from behind.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 202, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: He put fertilizer in the soil.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 202, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: He put fertilizer in the soil.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 203, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The pipe froze.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 203, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: The pipe froze.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 204, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: I put on a belt.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 204, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: I put on a belt.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 205, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: Some of its products were manufactured defectively.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 205, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: Some of its products were manufactured defectively.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 206, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: They neglected to pay their rent.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 206, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: They neglected to pay their rent.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 207, "question": "effect", "swap": false, "gold": 1, "raw": "Option A: He missed an appointment with the dentist.", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 207, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: He made an appointment with the dentist.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 208, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: Their best player was injured.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 208, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: Their best player was injured.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 209, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: The movie was rated R.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 209, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: The movie was rated R.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 210, "question": "cause", "swap": false, "gold": 0, "raw": "Option B: The sender requested a response from her.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 210, "question": "cause", "swap": true, "gold": 0, "raw": "Option A: The sender requested a response from her.", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 211, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: Her alibi checked out.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 211, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: Her alibi checked out.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 212, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: They congratulated each other.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 212, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: They congratulated each other.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 213, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: The window cracked.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 213, "question": "effect", "swap": true, "gold": 0, "raw": "Option A: The window fogged up.", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 214, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: She received many returning customers.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 214, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: She received many returning customers.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 215, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option A: She brushed her hair.**", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 215, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: She wiped her eyes.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 216, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: It moved its headquarters to a suburban location.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 216, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: It increased its marketing efforts for new products.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 217, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: The teacher subtracted points off the student's grade.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 217, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: The teacher subtracted points off the student's grade.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 218, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: She put her napkin on her lap before eating.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 218, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: She put her napkin on her lap before eating.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 219, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: The police officer let the detective enter the crime scene.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 219, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: The police officer confiscated the detective's badge.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 220, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The girl picked a flower for her mother.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 220, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: The girl picked a flower for her mother.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 221, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: Her parents gave her a toy.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 221, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: Her parents took away her toy.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 222, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: I stopped to chat with him.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 222, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: I stared blankly at him.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 223, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: The man blackmailed his enemy.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 223, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **Option B: The man avoided his enemy.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 224, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: She glided down the slide.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 224, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **B: She glided down the slide.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 225, "question": "cause", "swap": false, "gold": 1, "raw": "B: I was shocked.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 225, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: I was shocked.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 226, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: Her parents punished her.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 226, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: Her parents punished her.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 227, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: The owner took it to the car wash.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 227, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: The owner took it to the car wash.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 228, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: I paid her back.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 228, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: I sought a refund.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 229, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **B: She was framed.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 229, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: She was framed.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 230, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: The paper sliced apart.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 230, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **A: The paper crinkled.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 231, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: She missed them.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 231, "question": "cause", "swap": true, "gold": 1, "raw": "Correct option: A: She missed them.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 232, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: My eyes welled up with tears.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 232, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: My teeth began to chatter.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 233, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: Students were expelled from school.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 233, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: Students protested the decision.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 234, "question": "cause", "swap": false, "gold": 0, "raw": "Correct option: **A: I blew into it.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 234, "question": "cause", "swap": true, "gold": 0, "raw": "Correct option: B: I blew into it.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 235, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: I told a joke.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 235, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: I told a joke.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 236, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: He dropped a hammer on his foot.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 236, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: He dropped a hammer on his foot.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 237, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: He admitted his indiscretion.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 237, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: He admitted his indiscretion.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 238, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: The principal called off classes for the day.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 238, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: The principal suspended the students involved.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 239, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: They remained untouched for years.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 239, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: They remained untouched for years.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 240, "question": "cause", "swap": false, "gold": 0, "raw": "Option B: The woman was telling a funny story.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 240, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: Everyone in the room was talking.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 241, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: The machine powered on.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 241, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: The machine powered on.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 242, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: It was a holiday weekend.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 242, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: The forecast called for storms.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 243, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **B: There was a hole in it.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 243, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: There was a hole in it.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 244, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: I felt awkward.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 244, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: I felt awkward.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 245, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: The wrapper crinkled.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 245, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: The wrapper crinkled.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 246, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: A sound played.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 246, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: A sound played.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 247, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: She asked him for his autograph.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 247, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: She went to see his new film.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 248, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: It was foggy.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 248, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: It was foggy.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 249, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: The chandelier dropped from the ceiling.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 249, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: The chandelier dropped from the ceiling.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 250, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option A: It scratched me.**", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 250, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: I petted it.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 251, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: They played hide and seek.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 251, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: His sister tattled on him.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 252, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: He got his shoes shined.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 252, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option A: He got his shoes shined.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 253, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **B: I brought my umbrella to work.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 253, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: I brought my umbrella to work.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 254, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **A: The airplane crashed.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 254, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **B: The airplane crashed.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 255, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option A: The traffic light turned green.**", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 255, "question": "cause", "swap": true, "gold": 1, "raw": "Correct option: **B: The traffic light turned green.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 256, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: The bar was slippery.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 256, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: The bar was slippery.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 257, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: I sewed the button back on.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 257, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: I sewed the button back on.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 258, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **B: She wanted to avoid recognition.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 258, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: She wanted to avoid recognition.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 259, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: My family held a funeral.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 259, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: My family held a funeral.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 260, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: The celebrity offered the officer a bribe.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 260, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option A: The celebrity sued the police officer.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 261, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: He trusted the therapist.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 261, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: He trusted the therapist.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 262, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: The assailant struck the man in the head.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 262, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: The assailant struck the man in the head.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 263, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: He looked familiar.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 263, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: He looked familiar.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 264, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: He fought poverty.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 264, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: He fought poverty.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 265, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **B: He chuckled.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 265, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: He chuckled.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 266, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: I went on vacation for two weeks.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 266, "question": "cause", "swap": true, "gold": 1, "raw": "Option B: The lid on the mailbox broke.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 267, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **B: We ate them.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 267, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **A: We ate them.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 268, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **B: The dough flattened.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 268, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: The dough flattened.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 269, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is **B: The potter put the clay in the oven.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 269, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: The potter put the clay in the oven.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 270, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: I went swimming.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 270, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: I went hiking.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 271, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: Her friend cut off contact with her.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 271, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: Her friend cut off contact with her.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 272, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: He had his back turned to her.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 272, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: He caught a whiff of her perfume.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 273, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: They planned a vacation together.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 273, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: They stopped seeing each other.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 274, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: The bully's classmate tripped.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 274, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: The bully's classmate tripped.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 275, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: The man declared a truce with his enemy.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 275, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: The man framed his enemy for a crime.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 276, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: I nodded off to sleep.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 276, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: My yawning ceased.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 277, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The woman looked like her sister.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 277, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: The woman looked like her sister.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 278, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: His work was hasty.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 278, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: His work was hasty.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 279, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: She entered the sauna.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 279, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: She entered the sauna.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 280, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: He decided to buy it.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 280, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: He checked its price tag.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 281, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The contestant rang the buzzer.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 281, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: The contestant rang the buzzer.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 282, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: He watched a horror movie.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 282, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: He watched a horror movie.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 283, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: She went to medical school.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 283, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: She went to medical school.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 284, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: He shut it off.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 284, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: He recorded it.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 285, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: I took her to the emergency room.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 285, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: I encouraged her to take deep breaths.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 286, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: He asked his mother for help.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 286, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: He asked his mother for help.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 287, "question": "cause", "swap": false, "gold": 1, "raw": "Option A: I blew a bubble with the gum.", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 287, "question": "cause", "swap": true, "gold": 1, "raw": "Option B: I blew a bubble with the gum.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 288, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: His mother sold the picture to a gallery.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 288, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: His mother hung the picture on the wall.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 289, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: The teams shook hands.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 289, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: The teams got pumped up.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 290, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: She was a vegetarian.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 290, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: She was a vegetarian.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 291, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: I got dirt on the floor.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 291, "question": "effect", "swap": true, "gold": 0, "raw": "Option A: I got dirt on the floor.", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 292, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: I kept them in a secure place.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 292, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: I paper clipped them together.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 293, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: I dropped it.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 293, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: I dropped it.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 294, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: Her friend fell over.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 294, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: Her friend fell over.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 295, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: The host of the party kicked them out.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 295, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: The host of the party kicked them out.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 296, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: He opened a new bar of soap.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 296, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: He was sweaty from working out.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 297, "question": "cause", "swap": false, "gold": 1, "raw": "Correct option: B: The laptop's battery died.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 297, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: The laptop's battery died.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 298, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: It was adapted into a movie.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 298, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: It was adapted into a movie.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 299, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: He was cured of cancer.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 299, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: He was cured of cancer.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 300, "question": "cause", "swap": false, "gold": 1, "raw": "Correct option: B: She received her monthly bill.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 300, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: She received her monthly bill.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 301, "question": "cause", "swap": false, "gold": 0, "raw": "Option B: She endured a lot of stress in her current occupation.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 301, "question": "cause", "swap": true, "gold": 0, "raw": "Option A: She endured a lot of stress in her current occupation.", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 302, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The man stalked her.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 302, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: The man stalked her.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 303, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The swimmers returned towards the shore.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 303, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: The swimmers returned towards the shore.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 304, "question": "cause", "swap": false, "gold": 0, "raw": "Option B: She was familiar with the bartender.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 304, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: She was the designated driver for the night.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 305, "question": "cause", "swap": false, "gold": 0, "raw": "Option B: I read several chapters of the book.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 305, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: I climbed several flights of stairs.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 306, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: She was sent to a psychiatric institution.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 306, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: She was sent to a psychiatric institution.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 307, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option A: The woman glanced at her watch.**", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 307, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **Option B: The woman glanced at her watch.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 308, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: He whistled whenever a player scored a touchdown.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 308, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option A: He whistled whenever a player scored a touchdown.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 309, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **B: He blushed.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 309, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: He blushed.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 310, "question": "effect", "swap": false, "gold": 1, "raw": "Option A: It healed.", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 310, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: It healed.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 311, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: She took antibiotics.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 311, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: She took antibiotics.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 312, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: She cancelled her appointments.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 312, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: She contacted her lawyer.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 313, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The air conditioner in the room broke.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 313, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: The air conditioner in the room broke.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 314, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **B: It was severely infected.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 314, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: It was severely infected.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 315, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: She felt self-conscious.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 315, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **B: She felt self-conscious.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 316, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: He went camping in the woods.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 316, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: He went camping in the woods.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 317, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: Her brother unwrapped the gift.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 317, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: Her brother refused to accept the gift.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 318, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: The meeting commenced.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 318, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: The meeting commenced.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 319, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option A: They ate popsicles.**", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 319, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option B: They ate popsicles.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 320, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: He searched under his car seats for loose change.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 320, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: He searched under his car seats for loose change.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 321, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: He bargained with the vendor.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 321, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: He bargained with the vendor.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 322, "question": "cause", "swap": false, "gold": 0, "raw": "Option B: She received tenure at the university.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 322, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: She discovered a new species.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 323, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: The pedestrian crossed the road.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 323, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **A: The pedestrian waited on the sidewalk.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 324, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: His brother tickled him.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 324, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: His brother tickled him.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 325, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: I caught myself on the railing.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 325, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: I caught myself on the railing.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 326, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: It was late.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 326, "question": "cause", "swap": true, "gold": 1, "raw": "Option B: It was a clear night.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 327, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: I brought her a card and flowers.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 327, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: I dropped her off at the hospital.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 328, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: People began to dance.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 328, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: People began to dance.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 329, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: He noticed some suspicious activity.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 329, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: He noticed some suspicious activity.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 330, "question": "cause", "swap": false, "gold": 1, "raw": "Option A: I was hungry.", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 330, "question": "cause", "swap": true, "gold": 1, "raw": "Option B: I was hungry.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 331, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: He put out his back.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 331, "question": "effect", "swap": true, "gold": 0, "raw": "Option A: He scratched his back.", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 332, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: She left it unsupervised.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 332, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option B: It contained a lot of junk.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 333, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: She got into a car accident.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 333, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: She got into a car accident.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 334, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: I went to the bank.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 334, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: I went to the bank.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 335, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: The bull bucked the rider.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 335, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: The bull bucked the rider.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 336, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: He lifted weights.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 336, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: He lifted weights.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 337, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: She validated her theory.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 337, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: She validated her theory.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 338, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: I stored it in the refrigerator.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 338, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: I stored it in the refrigerator.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 339, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: The parents shook a rattle in front of the baby.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 339, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: The parents shook a rattle in front of the baby.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 340, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: The soup cooled down.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 340, "question": "effect", "swap": true, "gold": 0, "raw": "Option A: The soup became thick.", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 341, "question": "cause", "swap": false, "gold": 0, "raw": "Option B: Her friend sat next to her at lunch.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 341, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option A: Her friend sat next to her at lunch.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 342, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: They apprehended the suspect.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 342, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: They apprehended the suspect.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 343, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: I went for a walk.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 343, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **B: I went for a walk.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 344, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: I poured it out.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 344, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option A: I poured it out.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 345, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: It was old.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 345, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: It was old.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 346, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The bully punched the boy.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 346, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: The bully punched the boy.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 347, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: I retraced my steps.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 347, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: I retrieved my phone.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 348, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: He aimed at the deer.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 348, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: He reloaded the gun.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 349, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: Oil spilled into the ocean.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 349, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: Oil spilled into the ocean.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 350, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: The ice cube vanished.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 350, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: The ice cube stuck to my fingers.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 351, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The window display caught her eye.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 351, "question": "cause", "swap": true, "gold": 1, "raw": "Option B: She left her wallet at home.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 352, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option A: His meal was cold.**", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 352, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: His meal was spicy.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 353, "question": "cause", "swap": false, "gold": 0, "raw": "Option B: She was intoxicated.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 353, "question": "cause", "swap": true, "gold": 0, "raw": "Option A: She was intoxicated.", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 354, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: I clamped my hand over my nose.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 354, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **B: I clamped my hand over my nose.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 355, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option A: Her family got in touch with her.**", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 355, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option B: Her family got in touch with her.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 356, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: The paperclip stuck to the magnet.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 356, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **A: The paperclip stuck to the magnet.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 357, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: The weeds produced seeds.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 357, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: The weeds came out of the soil.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 358, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: The pizza was delivered.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 358, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: The pizza was delivered.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 359, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: He went through a growth spurt.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 359, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: He went through a growth spurt.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 360, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: Specialists recommended the procedure.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 360, "question": "cause", "swap": true, "gold": 1, "raw": "Option B: The procedure was costly.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 361, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: The sleeve ripped.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 361, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: The sleeve ripped.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 362, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: He left a note.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 362, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: He left a note.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 363, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: I downloaded a virus.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 363, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: I downloaded a virus.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 364, "question": "cause", "swap": false, "gold": 0, "raw": "Option B: She swallowed her gum.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 364, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option A: She swallowed her gum.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 365, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: I opened the blinds.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 365, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: I opened the blinds.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 366, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option A: She learned to walk.**", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 366, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: He was tired of carrying her.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 367, "question": "cause", "swap": false, "gold": 0, "raw": "Option B: The spy was hired by the government.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 367, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: The spy bugged the enemy's phone.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 368, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option A: The child drew on the table.**", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 368, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option B: The child drew on the table.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 369, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The teapot whistled.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 369, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: The teapot whistled.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 370, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **B: The mayor fulfilled his promises.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 370, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: The mayor fulfilled his promises.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 371, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: She wanted attention.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 371, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: She wanted attention.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 372, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: She went sky diving.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 372, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: She retired.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 373, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: He refused to talk about it.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 373, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: He refused to talk about it.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 374, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: His mother passed away.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 374, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: His mother passed away.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 375, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: She was bitten by a dog.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 375, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option B: She rescued an abandoned dog.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 376, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: I bought fruits and vegetables.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 376, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: I attended a yoga class.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 377, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: He suffered brain damage.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 377, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: He suffered brain damage.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 378, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: A debate erupted.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 378, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: A debate erupted.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 379, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: The woman waved.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 379, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: The woman waved.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 380, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: She gave up custody of the children.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 380, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: She sent the children to daycare.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 381, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: She made a right turn at the light.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 381, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: Another car swerved into her lane.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 382, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: He cut back on making frivolous purchases.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 382, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: He cut back on making frivolous purchases.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 383, "question": "cause", "swap": false, "gold": 0, "raw": "Option B: The paint on the walls was wet.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 383, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: The floor contained broken glass.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 384, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: I requested the librarian's help.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 384, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option A: The book was checked out.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 385, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: She held his hand.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 385, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option A: She held his hand.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 386, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: I was moving out of my apartment.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 386, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: I was moving out of my apartment.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 387, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: The boy looked up to his older brother.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 387, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **B: The boy looked up to his older brother.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 388, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **B: She obeyed her parent's rules.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 388, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: She ran away from home.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 389, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **B: The bridge collapsed.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 389, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option A: The bridge collapsed.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 390, "question": "cause", "swap": false, "gold": 0, "raw": "Option B: It renewed its lease.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 390, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: Its sales were lagging.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 391, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: She received a gold medal.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 391, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: She received a gold medal.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 392, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: Factories increased their production.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 392, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: Factories increased their production.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 393, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: Her daughter set the kitchen table.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 393, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: Her daughter burped at the kitchen table.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 394, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: My phone rang.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 394, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: My phone rang.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 395, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: She hit a patch of ice.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 395, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: She hit a patch of ice.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 396, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: The man retrieved a pen from his pocket.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 396, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option A: The man retrieved a pen from his pocket.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 397, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: The light flickered.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 397, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: The light flickered.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 398, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: He asked a stranger for the time.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 398, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **Option B: He waited at the bus stop.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 399, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: They wore camouflage uniforms.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 399, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: They wore camouflage uniforms.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 0, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: Water flowed from the spout.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 0, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: Water flowed from the spout.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 1, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: She lost her appetite.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 1, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **Option B: She poured milk in the bowl.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 2, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: She received her pension.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 2, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: She received her pension.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 3, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: I shut off the light in the unoccupied room.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 3, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: I shut off the light in the unoccupied room.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 4, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: The cook grilled it.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 4, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: The cook grilled it.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 5, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: I turned his offer down.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 5, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: I turned his offer down.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 6, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: The forecast called for storms.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 6, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: The forecast called for storms.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 7, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: I was sobbing.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 7, "question": "cause", "swap": true, "gold": 0, "raw": "Correct option: **A: I was laughing.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 8, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: I put a match to the wick.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 8, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option A: I put a match to the wick.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 9, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: He had a headache the next day.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 9, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: He had a headache the next day.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 10, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: The man rolled the bowling ball down the alley.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 10, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option A: The man dropped the bowling ball on his foot.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 11, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **B: His obituary appeared in the newspaper.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 11, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: His obituary appeared in the newspaper.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 12, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: I lost all my data.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 12, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: I lost all my data.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 13, "question": "cause", "swap": false, "gold": 1, "raw": "Option A: She aspired to hold an executive position in the firm.", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 13, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: She believed her superiors were acting unethically.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 14, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: Her teammate threw it to her.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 14, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: Her teammate threw it to her.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 15, "question": "cause", "swap": false, "gold": 0, "raw": "Option B: The jury announced its verdict.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 15, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: The courtroom broke into uproar.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 16, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option A: The children hit a ball into her yard.**", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 16, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option B: The children hit a ball into her yard.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 17, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: They accepted ransom money.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 17, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: They accepted ransom money.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 18, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option A: He ran out of onions.**", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 18, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option B: He ran out of onions.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 19, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: She burned her finger on the toaster.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 19, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: She burned her finger on the toaster.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 20, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: The teacher corrected her.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 20, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: The teacher corrected her.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 21, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: I took deep breaths.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 21, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: I took deep breaths.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 22, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: The soap rinsed off my hands.  \nOption B: The water splashed in my face.", "pred": null, "first_listed": null, "correct": false}
+{"idx": 22, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: The soap rinsed off my hands.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 23, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: He scheduled a meeting with an important client.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 23, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: He scheduled a meeting with an important client.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 24, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: The woman envied him.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 24, "question": "effect", "swap": true, "gold": 0, "raw": "Option A: The woman envied him.", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 25, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: He ran over a nail.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 25, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: He ran over a nail.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 26, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: A tall person was sitting in front of me.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 26, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: A tall person was sitting in front of me.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 27, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option A: He heard thunder.**", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 27, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: The sun went down.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 28, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: Her father took away her dessert.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 28, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: Her father told her to drink her milk.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 29, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: She sneezed.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 29, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **A: She sneezed.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 30, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **B: The caller waited on the line.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 30, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: The caller waited on the line.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 31, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **B: She broke her leg.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 31, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **A: She broke her leg.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 32, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: I inhaled smoke.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 32, "question": "cause", "swap": true, "gold": 0, "raw": "Correct option: B: I inhaled smoke.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 33, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: It was the top of the hour.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 33, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: It was the top of the hour.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 34, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: The egg cracked.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 34, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option A: The egg rotted.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 35, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: They were looking for illegal drugs.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 35, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: They were looking for illegal drugs.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 36, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: They were separated.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 36, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option A: They were separated.**", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 37, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **B: He promised his friend that he would go.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 37, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: He promised his friend that he would go.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 38, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: She called the wedding off.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 38, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: The wedding guests brought gifts.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 39, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: His hair turned gray.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 39, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: His hair turned gray.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 40, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: They ordered fries with the hamburger.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 40, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: They cut the hamburger in half.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 41, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: The soda fizzed.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 41, "question": "effect", "swap": true, "gold": 0, "raw": "Option A: The soda leaked out.", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 42, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: Their responses on the assignment were identical.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 42, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: Their responses on the assignment were identical.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 43, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option B: He brought his lunch to school.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 43, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: He left his assignment at home.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 44, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **B: The journalist was intrigued by the humanitarian's work.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 44, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: The journalist was intrigued by the humanitarian's work.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 45, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **B: He was excommunicated from the church.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 45, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: He was excommunicated from the church.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 46, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: She pulled her hair back with a clip.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 46, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **B: She pulled her hair back with a clip.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 47, "question": "cause", "swap": false, "gold": 0, "raw": "Correct option: **B: I chipped my fingernail.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 47, "question": "cause", "swap": true, "gold": 0, "raw": "Correct option: **B: My finger swelled.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 48, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: It stretched.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 48, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: It stretched.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 49, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: My handprint dried in the cement.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 49, "question": "effect", "swap": true, "gold": 0, "raw": "Option A: Cracks emerged in the cement.", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 50, "question": "cause", "swap": false, "gold": 0, "raw": "Correct option: Option A: I brushed against poison ivy in my yard.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 50, "question": "cause", "swap": true, "gold": 0, "raw": "Correct option: B: I brushed against poison ivy in my yard.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 51, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: I stopped receiving new issues.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 51, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: I stopped receiving new issues.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 52, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: He scrapped his theory.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 52, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: He finalized his theory.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 53, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: His brother took his toys from him.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 53, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: His brother took his toys from him.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 54, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: He began attending school.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 54, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: He began attending school.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 55, "question": "cause", "swap": false, "gold": 1, "raw": "Option A: His mother cooked his favorite meal.", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 55, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option B: His mother cooked his favorite meal.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 56, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: She wanted to ask her friend for a favor.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 56, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: She wanted to ask her friend for a favor.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 57, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: The pocket had a hole.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 57, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: The pocket had a hole.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 58, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: He ran a marathon.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 58, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option B: He took a nap.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 59, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: The competition was sabotaged.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 59, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: The competition was sabotaged.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 60, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: Her son fell out of his bed.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 60, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: Her son fell out of his bed.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 61, "question": "cause", "swap": false, "gold": 0, "raw": "Correct option: **B: The car radio shut off.**", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 61, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: A deer appeared on the road.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 62, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: I turned the key in the lock.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 62, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: I turned the key in the lock.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 63, "question": "cause", "swap": false, "gold": 1, "raw": "Option A: I was preparing to wash my hands.", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 63, "question": "cause", "swap": true, "gold": 1, "raw": "Option B: I was preparing to wash my hands.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 64, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: Their habitat was destroyed.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 64, "question": "cause", "swap": true, "gold": 0, "raw": "Option B: Their habitat was destroyed.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 65, "question": "cause", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: The woman got her hair cut.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 65, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: The woman got her hair cut.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 66, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: She made up an excuse to tell the teacher.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 66, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: She made up an excuse to tell the teacher.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 67, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: A knock sounded at the door.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 67, "question": "cause", "swap": true, "gold": 1, "raw": "The correct option is: **Option A: A knock sounded at the door.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 68, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: Environmentalists produced a documentary.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 68, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: Environmentalists started a petition.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 69, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: They kissed.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 69, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **B: They kissed.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 70, "question": "cause", "swap": false, "gold": 0, "raw": "Option B: He thanked her.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 70, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: He insulted her.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 71, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: The branch moved downstream.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 71, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **B: The branch moved downstream.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 72, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **Option A: The students passed notes.**", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 72, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **Option B: The students passed notes.**", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 73, "question": "effect", "swap": false, "gold": 1, "raw": "The correct option is: **B: Leaves fell from the trees.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 73, "question": "effect", "swap": true, "gold": 1, "raw": "The correct option is: **A: Leaves fell from the trees.**", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 74, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: He was removed from office.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 74, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: He was removed from office.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 75, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: The wagon wheels spun forward.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 75, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: The wagon wheels spun forward.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 76, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: The legislature passed the bill.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 76, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: The legislature passed the bill.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 77, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: I organized it.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 77, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: I organized it.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 78, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: I was tired in the morning.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 78, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: I was tired in the morning.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 79, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: His pocket was filled with coins.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 79, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **B: His pocket was filled with coins.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 80, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: The student's phone rang.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 80, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: The student's phone rang.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 81, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: A fly bit the horse.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 81, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: A fly bit the horse.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 82, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: The stolen jewelry was returned to its owners.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 82, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: The stolen jewelry was returned to its owners.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 83, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: Many citizens took refuge in other territories.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 83, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: Many citizens relocated to the capitol.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 84, "question": "cause", "swap": false, "gold": 1, "raw": "The correct option is: **Option B: She committed assault.**", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 84, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: She committed assault.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 85, "question": "effect", "swap": false, "gold": 0, "raw": "The correct option is: **Option A: She discovered the outcome of the election.**", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 85, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: She discovered the outcome of the election.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 86, "question": "effect", "swap": false, "gold": 0, "raw": "Option B: His friend sneezed.", "pred": 1, "first_listed": false, "correct": false}
+{"idx": 86, "question": "effect", "swap": true, "gold": 0, "raw": "Option A: His friend sneezed.", "pred": 1, "first_listed": true, "correct": false}
+{"idx": 87, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: They planned a wedding.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 87, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: They planned a wedding.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 88, "question": "cause", "swap": false, "gold": 0, "raw": "Option A: The woman planned to buy a condo.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 88, "question": "cause", "swap": true, "gold": 0, "raw": "The correct option is: **B: The woman planned to buy a condo.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 89, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: He became rich.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 89, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: He became rich.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 90, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: Wax dripped off the candle.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 90, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: Wax dripped off the candle.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 91, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: My face got sunburned.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 91, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: I sprained my ankle.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 92, "question": "cause", "swap": false, "gold": 1, "raw": "Option B: The parking meter expired.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 92, "question": "cause", "swap": true, "gold": 1, "raw": "Option A: The parking meter expired.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 93, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: Photographers followed her.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 93, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: Photographers followed her.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 94, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: She got her ears pierced.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 94, "question": "effect", "swap": true, "gold": 0, "raw": "The correct option is: **Option B: She got her ears pierced.**", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 95, "question": "cause", "swap": false, "gold": 1, "raw": "Correct option: B: I went to a concert.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 95, "question": "cause", "swap": true, "gold": 1, "raw": "Correct option: Option A: I went to a concert.", "pred": 1, "first_listed": true, "correct": true}
+{"idx": 96, "question": "cause", "swap": false, "gold": 1, "raw": "Option A: I was swamped with work.", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 96, "question": "cause", "swap": true, "gold": 1, "raw": "Option B: I was swamped with work.", "pred": 0, "first_listed": false, "correct": false}
+{"idx": 97, "question": "effect", "swap": false, "gold": 0, "raw": "Option A: They offered me compensation.", "pred": 0, "first_listed": true, "correct": true}
+{"idx": 97, "question": "effect", "swap": true, "gold": 0, "raw": "Option B: They offered me compensation.", "pred": 0, "first_listed": false, "correct": true}
+{"idx": 98, "question": "effect", "swap": false, "gold": 1, "raw": "Option B: I bought a new one.", "pred": 1, "first_listed": false, "correct": true}
+{"idx": 98, "question": "effect", "swap": true, "gold": 1, "raw": "Option A: I bought a new one.  \nOption B: I got it repaired.", "pred": null, "first_listed": null, "correct": false}
+{"idx": 99, "question": "effect", "swap": false, "gold": 1, "raw": "Option A: She engaged in small talk with her friend.", "pred": 0, "first_listed": true, "correct": false}
+{"idx": 99, "question": "effect", "swap": true, "gold": 1, "raw": "Option B: She engaged in small talk with her friend.", "pred": 0, "first_listed": false, "correct": false}
